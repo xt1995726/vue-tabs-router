@@ -1,6 +1,7 @@
 # vue-tabs-router
 
-> 项目中路由标签的展示和操作，独立出来的一个组件demo，使用elementui
+> 项目中路由标签的展示和操作，独立出来的一个组件demo，使用elementui  
+
 > a component for router tabs dispaly and operate, use elementui.
 
 ## Build Setup
